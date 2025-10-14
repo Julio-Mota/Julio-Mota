@@ -1,4 +1,4 @@
-![banner](https://github.com/Julio-Mota/hello-world/blob/main/banner%20dev.png)
+![banner](https://github.com/Julio-Mota/Julio-Mota/blob/main/banner%20dev.png)
 
 <h1 align="center">Olá 👋! Me chamo Júlio Mota.</h1>
 <h3 align="center">Aqui você encontra os meus projetos com diversas linguagens</h3>
