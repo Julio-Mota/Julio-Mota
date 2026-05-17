@@ -1,9 +1,7 @@
 ![banner](https://github.com/Julio-Mota/Julio-Mota/blob/main/banner%20dev.png)
 
 <h1 align="center">Olá 👋, me chamo Júlio Mota</h1>
-<h3 align="center">Aqui você encontrará os meus projetos com diversas linguagens!</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=julio-mota&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="julio-mota" /> </p>
+<h3 align="center">Aqui você encontrará os meus projetos com diversas linguagens!</h3><br>
 
 - :briefcase: Atualmente estou trabalhando com **Spring Boot e PostgreSQL**
 
