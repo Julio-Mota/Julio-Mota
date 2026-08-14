@@ -3,11 +3,9 @@
 <h1 align="center">Olá 👋, me chamo Júlio Mota</h1>
 <h3 align="center">Aqui você encontrará os meus projetos com diversas linguagens!</h3><br>
 
-- :briefcase: Atualmente estou trabalhando com **Spring Boot e PostgreSQL**
+- :briefcase: Atualmente estou trabalhando com **Spring Boot, ReactJS e PostgreSQL**
 
-- :male_detective: Procuro colaborar com **ReactJS**
-
-- 🌱 Estou me aperfeiçoando com **Spring Boot e JS**
+- 🌱 Estou me aperfeiçoando com **Spring Boot e ReactJS**
 
 - 📫 Entre em contato comigo: **juliot1214@gmail.com**
 
